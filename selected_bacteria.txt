@@ -1,0 +1,27 @@
+GCF_000007565.2	Pseudomonas putida KT2440
+GCF_000021045.1 Azotobacter vinelandii DJ
+GCF_000380335.1 Azotobacter vinelandii CA
+GCF_000380365.1 Azotobacter vinelandii CA6
+GCF_000807315.1 Bradyrhizobium japonicum
+GCF_001887695.1 Bradyrhizobium japonicum
+GCF_000005845.2 Escherichia coli str. K-12 substr. MG1655
+GCF_000010245.2 Escherichia coli str. K-12 substr. W3110
+GCF_000015985.1 Rhodobacter sphaeroides ATCC 17029
+GCF_000195775.1 Rhodopseudomonas palustris CGA009
+GCF_000006865.1 Lactococcus lactis subsp. lactis Il1403
+GCF_000772125.1 Bacillus subtilis
+GCF_000008765.1 Clostridium acetobutylicum ATCC 824
+GCF_000016965.1 Clostridium beijerinckii NCIMB 8052
+GCF_000934625.1 Lactobacillus acidophilus
+GCF_001676805.1 Lactobacillus brevis
+GCF_000211375.1 Lactobacillus buchneri NRRL B-30929
+GCF_002192215.1 Lactobacillus casei
+GCF_000742715.1 Corynebacterium glutamicum
+GCF_000203835.1 Streptomyces coelicolor A3(2)
+GCF_000827005.1 Streptomyces albus
+GCF_000739105.1 Streptomyces lividans TK24
+GCF_000210155.1 Geobacter sulfurreducens KN400
+GCF_001406115.1 Streptomyces venezuelae
+GCF_002003285.1 Clostridium saccharobutylicum
+GCF_000698865.1 Pseudomonas chlororaphis
+GCF_000438785.2 Vibrio natriegens
